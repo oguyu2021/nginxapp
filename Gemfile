@@ -67,3 +67,6 @@ gem 'rails_12factor', group: :production
 gem 'net-smtp'
 gem 'net-imap'
 gem 'net-pop'
+
+gem 'unicorn'
+gem 'unicorn-rails'
