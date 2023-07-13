@@ -69,4 +69,3 @@ gem 'net-imap'
 gem 'net-pop'
 
 gem 'unicorn'
-gem 'unicorn-rails'
